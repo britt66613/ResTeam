@@ -1,14 +1,14 @@
-﻿using Entity.Entity;
+﻿using Entities.Entity;
 using RT.DataAccess.Db;
-using RT.Entity.Entity;
-using RT.Entity.Enum;
+using RT.Entities.Entity;
+using RT.Entities.Enum;
 using RT.Services;
 using RT.Utils.ModelError;
 using System;
-using System.Data.Entity;
 using System.Linq;
 using System.Linq.Expressions;
 using System.Web.ModelBinding;
+
 
 namespace TestConsole
 {
@@ -17,7 +17,7 @@ namespace TestConsole
         static void Main(string[] args)
         {
 
-            var time1 = DateTime.Now;
+            
             using (ApplicationContext db = new ApplicationContext())
             {
                 Restaurant restaurant = new Restaurant
@@ -102,10 +102,34 @@ namespace TestConsole
                                       $"Temperature - {item.Menu.BarMenus.FirstOrDefault().Temperature} \n" +
                                       $"Category - {item.Menu.BarMenus.FirstOrDefault().Category} \n" + Environment.NewLine);
                 }
+                
+                var time1 = DateTime.Now;
+                Create(db);
                 var time2 = DateTime.Now;
                 Console.WriteLine(time1);
                 Console.WriteLine(time2);
                 Console.ReadKey();
+            }
+        }
+
+        public static void Create(ApplicationContext db)
+        {
+            foreach (var item in db.Restaurants.ToList())
+            {
+                Console.WriteLine($"Restaurant name: {item.Name} \n" +
+                                  $"Restaurant id: {item.Id} \n" +
+                                  $"Restaurant address: {item.Location.Address} \n" +
+                                  $"Restaurants creation time: {item.Time} \n" +
+                                  $"Restaurant status: {item.Status.ToString()} \n {string.Format("-", 10)} \n" +
+                                  $" Restaurant Menu \n" +
+                                  $"Bar Menu: \n" +
+                                  $"Name - {item.Menu.BarMenus.FirstOrDefault().Name} \n" +
+                                  $"Description - {item.Menu.BarMenus.FirstOrDefault().Description} \n" +
+                                  $"Price - {item.Menu.BarMenus.FirstOrDefault().Price} \n" +
+                                  $"Amount - {item.Menu.BarMenus.FirstOrDefault().Amount} \n" +
+                                  $"Ingridients - {item.Menu.BarMenus.FirstOrDefault().Ingridients} \n" +
+                                  $"Temperature - {item.Menu.BarMenus.FirstOrDefault().Temperature} \n" +
+                                  $"Category - {item.Menu.BarMenus.FirstOrDefault().Category} \n" + Environment.NewLine);
             }
         }
     }

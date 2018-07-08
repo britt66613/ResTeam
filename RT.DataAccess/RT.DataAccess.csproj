@@ -53,9 +53,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Entity\RT.Entity.csproj">
-      <Project>{CEA5826F-5BEE-4CF6-81F1-E45FAC2963C1}</Project>
-      <Name>RT.Entity</Name>
+    <ProjectReference Include="..\RT.Entities\RT.Entities.csproj">
+      <Project>{E07F00D6-914F-4A5E-AEC1-B287568862CA}</Project>
+      <Name>RT.Entities</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

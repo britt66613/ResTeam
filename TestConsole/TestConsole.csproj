@@ -60,13 +60,13 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Entity\RT.Entity.csproj">
-      <Project>{CEA5826F-5BEE-4CF6-81F1-E45FAC2963C1}</Project>
-      <Name>RT.Entity</Name>
-    </ProjectReference>
     <ProjectReference Include="..\RT.DataAccess\RT.DataAccess.csproj">
       <Project>{253CA133-7EE8-48CD-AE69-F33CABC68FE8}</Project>
       <Name>RT.DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RT.Entities\RT.Entities.csproj">
+      <Project>{e07f00d6-914f-4a5e-aec1-b287568862ca}</Project>
+      <Name>RT.Entities</Name>
     </ProjectReference>
     <ProjectReference Include="..\RT.Services\RT.Services.csproj">
       <Project>{8F61B6FE-FA19-461C-8374-B6704B22CFE6}</Project>

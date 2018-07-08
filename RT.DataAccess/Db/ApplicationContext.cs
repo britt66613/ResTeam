@@ -1,6 +1,6 @@
-﻿using Entity.Entity;
-using RT.Entity.Entity;
+﻿using RT.Entities.Entity;
 using System.Data.Entity;
+using Entities.Entity;
 
 namespace RT.DataAccess.Db
 {

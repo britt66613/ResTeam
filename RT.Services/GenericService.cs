@@ -6,8 +6,8 @@ using System.Text;
 using System.Threading.Tasks;
 using Newtonsoft.Json;
 using RT.DataAccess;
-using RT.Entity.Common;
-using RT.Entity.Interfaces;
+using RT.Entities.Common;
+using RT.Entities.Interfaces;
 using RT.Services.Interfaces;
 using RT.Utils.Events;
 

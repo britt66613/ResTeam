@@ -6,8 +6,8 @@ using System.Text;
 using System.Threading.Tasks;
 using RT.DataAccess;
 using RT.DataAccess.Db;
-using RT.Entity.Entity;
-using RT.Entity.Interfaces;
+using RT.Entities.Entity;
+using RT.Entities.Interfaces;
 using RT.Services.Interfaces;
 using RT.Utils.ModelError;
 

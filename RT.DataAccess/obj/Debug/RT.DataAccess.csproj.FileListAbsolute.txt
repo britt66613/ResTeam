@@ -25,3 +25,18 @@ C:\Users\Pavel Leevchenko\source\repos\ResTeam\RT.DataAccess\obj\Debug\RT.DataAc
 C:\Users\Pavel Leevchenko\source\repos\ResTeam\RT.DataAccess\obj\Debug\RT.DataAccess.pdb
 C:\Users\Pavel Leevchenko\source\repos\ResTeam\RT.DataAccess\bin\Debug\RT.Utils.dll
 C:\Users\Pavel Leevchenko\source\repos\ResTeam\RT.DataAccess\bin\Debug\RT.Utils.pdb
+D:\ResTeam\RT.DataAccess\bin\Debug\RT.DataAccess.dll.config
+D:\ResTeam\RT.DataAccess\bin\Debug\RT.DataAccess.dll
+D:\ResTeam\RT.DataAccess\bin\Debug\RT.DataAccess.pdb
+D:\ResTeam\RT.DataAccess\bin\Debug\EntityFramework.dll
+D:\ResTeam\RT.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\ResTeam\RT.DataAccess\bin\Debug\RT.Entities.dll
+D:\ResTeam\RT.DataAccess\bin\Debug\RT.Utils.dll
+D:\ResTeam\RT.DataAccess\bin\Debug\RT.Entities.pdb
+D:\ResTeam\RT.DataAccess\bin\Debug\EntityFramework.xml
+D:\ResTeam\RT.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\ResTeam\RT.DataAccess\bin\Debug\RT.Utils.pdb
+D:\ResTeam\RT.DataAccess\obj\Debug\RT.DataAccess.csprojResolveAssemblyReference.cache
+D:\ResTeam\RT.DataAccess\obj\Debug\RT.DataAccess.csproj.CoreCompileInputs.cache
+D:\ResTeam\RT.DataAccess\obj\Debug\RT.DataAccess.dll
+D:\ResTeam\RT.DataAccess\obj\Debug\RT.DataAccess.pdb

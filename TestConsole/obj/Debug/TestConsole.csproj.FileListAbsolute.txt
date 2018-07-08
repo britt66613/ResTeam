@@ -33,3 +33,26 @@ C:\Users\Pavel Leevchenko\source\repos\ResTeam\TestConsole\bin\Debug\RT.Services
 C:\Users\Pavel Leevchenko\source\repos\ResTeam\TestConsole\bin\Debug\RT.Services.dll.config
 C:\Users\Pavel Leevchenko\source\repos\ResTeam\TestConsole\bin\Debug\RT.Utils.pdb
 C:\Users\Pavel Leevchenko\source\repos\ResTeam\TestConsole\bin\Debug\Newtonsoft.Json.xml
+D:\ResTeam\TestConsole\bin\Debug\TestConsole.exe.config
+D:\ResTeam\TestConsole\bin\Debug\TestConsole.exe
+D:\ResTeam\TestConsole\bin\Debug\TestConsole.pdb
+D:\ResTeam\TestConsole\bin\Debug\EntityFramework.dll
+D:\ResTeam\TestConsole\bin\Debug\EntityFramework.SqlServer.dll
+D:\ResTeam\TestConsole\bin\Debug\RT.DataAccess.dll
+D:\ResTeam\TestConsole\bin\Debug\RT.Entities.dll
+D:\ResTeam\TestConsole\bin\Debug\RT.Services.dll
+D:\ResTeam\TestConsole\bin\Debug\RT.Utils.dll
+D:\ResTeam\TestConsole\bin\Debug\Newtonsoft.Json.dll
+D:\ResTeam\TestConsole\bin\Debug\RT.DataAccess.pdb
+D:\ResTeam\TestConsole\bin\Debug\RT.DataAccess.dll.config
+D:\ResTeam\TestConsole\bin\Debug\RT.Entities.pdb
+D:\ResTeam\TestConsole\bin\Debug\RT.Services.pdb
+D:\ResTeam\TestConsole\bin\Debug\RT.Services.dll.config
+D:\ResTeam\TestConsole\bin\Debug\RT.Utils.pdb
+D:\ResTeam\TestConsole\bin\Debug\EntityFramework.xml
+D:\ResTeam\TestConsole\bin\Debug\EntityFramework.SqlServer.xml
+D:\ResTeam\TestConsole\bin\Debug\Newtonsoft.Json.xml
+D:\ResTeam\TestConsole\obj\Debug\TestConsole.csprojResolveAssemblyReference.cache
+D:\ResTeam\TestConsole\obj\Debug\TestConsole.csproj.CoreCompileInputs.cache
+D:\ResTeam\TestConsole\obj\Debug\TestConsole.exe
+D:\ResTeam\TestConsole\obj\Debug\TestConsole.pdb

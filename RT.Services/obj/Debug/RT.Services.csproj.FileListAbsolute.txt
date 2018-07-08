@@ -30,3 +30,23 @@ C:\Users\Pavel Leevchenko\source\repos\ResTeam\RT.Services\bin\Debug\EntityFrame
 C:\Users\Pavel Leevchenko\source\repos\ResTeam\RT.Services\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Pavel Leevchenko\source\repos\ResTeam\RT.Services\obj\Debug\RT.Services.dll
 C:\Users\Pavel Leevchenko\source\repos\ResTeam\RT.Services\obj\Debug\RT.Services.pdb
+D:\ResTeam\RT.Services\bin\Debug\RT.Services.dll.config
+D:\ResTeam\RT.Services\bin\Debug\RT.Services.dll
+D:\ResTeam\RT.Services\bin\Debug\RT.Services.pdb
+D:\ResTeam\RT.Services\bin\Debug\EntityFramework.dll
+D:\ResTeam\RT.Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\ResTeam\RT.Services\bin\Debug\Newtonsoft.Json.dll
+D:\ResTeam\RT.Services\bin\Debug\RT.DataAccess.dll
+D:\ResTeam\RT.Services\bin\Debug\RT.Entities.dll
+D:\ResTeam\RT.Services\bin\Debug\RT.Utils.dll
+D:\ResTeam\RT.Services\bin\Debug\RT.DataAccess.pdb
+D:\ResTeam\RT.Services\bin\Debug\RT.DataAccess.dll.config
+D:\ResTeam\RT.Services\bin\Debug\RT.Entities.pdb
+D:\ResTeam\RT.Services\bin\Debug\RT.Utils.pdb
+D:\ResTeam\RT.Services\bin\Debug\EntityFramework.xml
+D:\ResTeam\RT.Services\bin\Debug\EntityFramework.SqlServer.xml
+D:\ResTeam\RT.Services\bin\Debug\Newtonsoft.Json.xml
+D:\ResTeam\RT.Services\obj\Debug\RT.Services.csprojResolveAssemblyReference.cache
+D:\ResTeam\RT.Services\obj\Debug\RT.Services.csproj.CoreCompileInputs.cache
+D:\ResTeam\RT.Services\obj\Debug\RT.Services.dll
+D:\ResTeam\RT.Services\obj\Debug\RT.Services.pdb
