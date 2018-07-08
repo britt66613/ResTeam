@@ -1,0 +1,6 @@
+C:\Users\Pavel Leevchenko\source\repos\ResTeam\RT.Utils\bin\Debug\RT.Utils.dll
+C:\Users\Pavel Leevchenko\source\repos\ResTeam\RT.Utils\bin\Debug\RT.Utils.pdb
+C:\Users\Pavel Leevchenko\source\repos\ResTeam\RT.Utils\obj\Debug\RT.Utils.csprojResolveAssemblyReference.cache
+C:\Users\Pavel Leevchenko\source\repos\ResTeam\RT.Utils\obj\Debug\RT.Utils.csproj.CoreCompileInputs.cache
+C:\Users\Pavel Leevchenko\source\repos\ResTeam\RT.Utils\obj\Debug\RT.Utils.dll
+C:\Users\Pavel Leevchenko\source\repos\ResTeam\RT.Utils\obj\Debug\RT.Utils.pdb
