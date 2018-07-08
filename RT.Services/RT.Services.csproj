@@ -50,8 +50,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="GenericBaseMenuItemService.cs" />
+    <Compile Include="GenericLocationService.cs" />
     <Compile Include="GenericRestaurantService.cs" />
     <Compile Include="GenericService.cs" />
+    <Compile Include="GenericShapeService.cs" />
     <Compile Include="Interfaces\IBaseService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
