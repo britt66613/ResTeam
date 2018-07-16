@@ -1,0 +1,8 @@
+D:\ResTeam\RT.Entities\obj\Debug\RT.Entities.csprojResolveAssemblyReference.cache
+D:\ResTeam\RT.Entities\obj\Debug\RT.Entities.csproj.CoreCompileInputs.cache
+D:\ResTeam\RT.Entities\bin\Debug\RT.Entities.dll
+D:\ResTeam\RT.Entities\bin\Debug\RT.Entities.pdb
+D:\ResTeam\RT.Entities\bin\Debug\RT.Utils.dll
+D:\ResTeam\RT.Entities\bin\Debug\RT.Utils.pdb
+D:\ResTeam\RT.Entities\obj\Debug\RT.Entities.dll
+D:\ResTeam\RT.Entities\obj\Debug\RT.Entities.pdb
