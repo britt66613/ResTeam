@@ -15,9 +15,7 @@ namespace TestConsole
     class Program
     {
         static void Main(string[] args)
-        {
-
-            
+        {            
             using (ApplicationContext db = new ApplicationContext())
             {
                 Restaurant restaurant = new Restaurant
@@ -81,10 +79,7 @@ namespace TestConsole
 
                 //Invoke
                 bool result = isTeenAger(15);
-
-                
-               
-                
+                                             
                 foreach (var item in db.Restaurants.ToList())
                 {
                     Console.WriteLine($"Restaurant name: {item.Name} \n" +

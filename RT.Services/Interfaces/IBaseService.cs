@@ -13,7 +13,7 @@ namespace RT.Services.Interfaces
     public interface IBaseGetService<T> : IDisposable where T : class, IEntity<int>
     {
         IEnumerable<T> GetAll();
-
+        
         T Find(Expression<Func<T, bool>> predicate);
 
         T GetByKey(object id);

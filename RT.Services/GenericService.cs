@@ -13,7 +13,7 @@ using RT.Utils.Events;
 
 namespace RT.Services
 {
-    public class GenericService : IDisposable
+    public abstract class GenericService : IDisposable
     {
         private bool _disposed;
 
@@ -203,7 +203,7 @@ namespace RT.Services
             }
         }
 
-        public  void HandleError(Exception exception, T entity)
+        public void HandleError(Exception exception, T entity)
         {
             try
             {

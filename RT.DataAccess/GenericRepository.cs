@@ -62,10 +62,10 @@ namespace RT.DataAccess
             using (var context = Context)
             {
                 var dbSet = context.Set<T>();                 
-                return expression != null ? dbSet.Where(expression).ToList() : dbSet.ToList(); ;
+                return expression != null ? dbSet.Where(x=>x.Id == 1).ToList() : dbSet.ToList(); ;
             }
         }
-
+        
         public T Find(Expression<Func<T, bool>> expression)
         {
             using (var context = Context)
